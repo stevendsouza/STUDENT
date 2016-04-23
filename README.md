@@ -1,4 +1,0 @@
-STUDENT
-=======
-
-student info
